@@ -1,4 +1,4 @@
-<img src="../rajasekar.jpg" width=400px>
+<img src="../img/rajasekar.jpg" width=400px>
 <h1 align="center">Hi 👋, I'm Rajasekar</h1>
 <h3 align="center">Junior Programmer | Exploring Full-Time Software Development Roles</h3>
 

@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rajas1010?tab=repositories](https://github.com/Rajas1010?tab=repositories)
 
-- 💬 Ask me about **Enthusiastic IT student with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL. Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.**
+- 💬 about me **Enthusiastic IT student with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL. Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.**
 
 - 📫 How to reach me **Rajasekar.Rj100@gmail.com**
 

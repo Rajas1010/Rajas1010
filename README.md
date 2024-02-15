@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajas1010/Rajas1010/blob/main/rajasekar.gif)
+![logo](https://github.com/Rajas1010/Rajas1010/blob/main/RajGitCover.gif)
 <h1 align="center">Hi 👋, I'm Rajasekar</h1>
 <h3 align="center">Junior Programmer | Exploring Full-Time Software Development Roles</h3>
 <img align="right" alt="coding" width="400" src="https://decisioning.it/wp-content/uploads/2021/09/ai-numbers-cascading.gif">

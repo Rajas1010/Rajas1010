@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://decisioning.it/wp-content/uploads/2021/09/ai-numbers-cascading.gif">
 - 🌱 I’m currently learning **Machine Learning Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rajas1010?tab=repositories](https://github.com/Rajas1010?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/Rajas1010?tab=repositories)
 
 - 💬 about me **Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL. Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.**
 

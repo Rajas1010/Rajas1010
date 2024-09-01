@@ -144,8 +144,7 @@ Java, Python, DSA, OOPS, MySQL, Excel, Git,<br> HTML, CSS, JavaScript
 - Patience
 
 ## LINKS
-- [GitHub](https://www.github.com/Rajas1010) 
-- [LinkedIn](https://www.linkedin.com/in/rajas1010/)
+- [GitHub](https://www.github.com/Rajas1010)       [LinkedIn](https://www.linkedin.com/in/rajas1010/)
 </td>
 <td>
 

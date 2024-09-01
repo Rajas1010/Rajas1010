@@ -94,11 +94,11 @@
   <tr>
     <td style="font-family: Verdana; text-align: left; vertical-align: top;">
       <h1><strong>RAJASEKAR M</strong></h1>
-      2024 graduate in Information Technology        
+      2024 graduate in Information Technology      
     </td>
     <td style="text-align: right; vertical-align: top;font-style=">
 	📞 7806909073<br>
-      📧 Rajasekar.Rj100@gmail.com                 <br>
+      📧 Rajasekar.Rj100@gmail.com               <br>
       📍 Aruppukottai, India
     </td>
   </tr>

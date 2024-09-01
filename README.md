@@ -100,7 +100,6 @@
     </td>
   </tr>
 </table>
-<h2>                              </h2>
 <h3 align="center">SUMMARY</h3>
 <p align="center">Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.<br> Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.</p>
 

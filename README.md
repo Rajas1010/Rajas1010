@@ -85,23 +85,23 @@
 <p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajas1010&" alt="rajas1010"/>
 </p>
-<p>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+<p>══════════════════════════════════════════════════════════════════════════════════════</p>
 
-<table align="center">
+<table align="center",border="0" >
   <tr>
-    <td style="font-family: Verdana; text-align: left; vertical-align: top;">
-      <h1 style="padding-top:0">RAJASEKAR M</h1>
-      2024 graduate in Information Technology      
+    <td style=text-align: left; vertical-align: top;">
+      <h3 align="center"><strong>RAJASEKAR M</strong></h3>
+      <p align="center">  2024 graduate in Information Technology  </p>
     </td>
-    <td style="text-align: right; vertical-align: top;font-style=">
+    <td style="text-align: right; vertical-align: top;">
 	<li> 📞 7806909073</li>
      	<li> 📧 Rajasekar.Rj100@gmail.com               </li>
 	<li> 📍 Aruppukottai, India</li>
     </td>
   </tr>
 </table>
-
-<h2 align="center">SUMMARY</h2>
+<h2>                              </h2>
+<h3 align="center">SUMMARY</h3>
 <p align="center">Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.<br> Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.</p>
 
 <table align="center">

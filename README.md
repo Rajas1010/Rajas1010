@@ -86,30 +86,27 @@
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajas1010&" alt="rajas1010"/>
 </p>
 <p>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
----
 
-
-
-<table >
+<table align="center">
   <tr>
     <td style="font-family: Verdana; text-align: left; vertical-align: top;">
-      <h1><strong>RAJASEKAR M</strong></h1>
+      <h1 style="padding-top:0">RAJASEKAR M</h1>
       2024 graduate in Information Technology      
     </td>
     <td style="text-align: right; vertical-align: top;font-style=">
-	- 📞 7806909073<br>
-     	- 📧 Rajasekar.Rj100@gmail.com               <br>
-	- 📍 Aruppukottai, India
+	<li> 📞 7806909073</li>
+     	<li> 📧 Rajasekar.Rj100@gmail.com               </li>
+	<li> 📍 Aruppukottai, India</li>
     </td>
   </tr>
 </table>
 
-### SUMMARY
-Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL. Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.
+<h2 align="center">SUMMARY</h2>
+<p align="center">Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.<br> Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.</p>
 
-<table >
+<table align="center">
   <tr>
-    <td style="vertical-align: top;" >
+    <td >
 	    
 ### EDUCATION
 **Mepco Schlenk Engineering College**  
@@ -131,13 +128,13 @@ Education: SSLC | HSC
 Specialization: Mathematics, Biology in 12th
 
 ### EXPERTISE
-Java, Python, DSA, OOPS, MySQL, Excel, Git, HTML, CSS, JavaScript
+Java, Python, DSA, OOPS, MySQL, Excel, Git,<br> HTML, CSS, JavaScript
 
 ### LANGUAGES
 English, Tamil
 
 ### INTERESTS
-Problem Solving, Software Development, Front-End Design, Data Analysis
+Problem Solving, Software Development,<br> Front-End Design, Data Analysis
 
 ### STRENGTHS
 Punctuality, Patience
@@ -156,7 +153,7 @@ KJK Meister Honen Pvt Ltd | *2019 – 2021*
 - Focus on accuracy and safety  
 
 ### PROJECTS
-**Deep Learning-Based Biological Signal Steganography with Missing Data Recovery Approach**  
+**Deep Learning-Based Biological Signal Steganography<br> with Missing Data Recovery Approach**  
 *January 2024 – May 2024* [8th Sem Final-year Project]  
 - Implemented deep learning-based recovery for lost bio-signal data.  
 - Integrated arrhythmia detection for early diagnosis in healthcare.  

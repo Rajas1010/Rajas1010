@@ -144,7 +144,7 @@ Java, Python, DSA, OOPS, MySQL, Excel, Git,<br> HTML, CSS, JavaScript
 - Patience
 
 ## LINKS
-- [GitHub](https://www.github.com/Rajas1010)       [LinkedIn](https://www.linkedin.com/in/rajas1010/)
+- [GitHub](https://www.github.com/Rajas1010)       [LinkedIn](https://www.linkedin.com/in/rajas1010/) <br><br>
 </td>
 <td>
 
@@ -186,9 +186,8 @@ Institution of Engineers (IT) competition in MEPCO college, 5th semester
 
 **Best Mini-Project Award in Machine Learning**  
 Institution of Engineers (IT) competition in MEPCO college, 6th semester  
-
+<br>
 </td>
-<td> <br> </td>
   </tr>
 </table>
 

@@ -161,19 +161,19 @@ KJK Meister Honen Pvt Ltd | *2019 – 2021*
 *January 2024 – May 2024* [8th Sem Final-year Project]  
 - Implemented deep learning-based recovery for lost bio-signal data.  
 - Integrated arrhythmia detection for early diagnosis in healthcare.  
-- [GitHub Link](https://github.com/Rajas1010/DEEP-LEARNING-BASED-BIOLOGICAL-SIGNAL-STEGANOGRAPHY-WITH-MISSING-DATA-RECOVERY-APPROACH)  
+- [Github Link | Deep Learning-Based Bio-Signal Recovery](https://github.com/Rajas1010/DEEP-LEARNING-BASED-BIOLOGICAL-SIGNAL-STEGANOGRAPHY-WITH-MISSING-DATA-RECOVERY-APPROACH)  
 
 **Secret Sharing Based on CRT, Cryptography Project**  
 *January 2023 – May 2023* [6th Sem Mini Project]  
 - Secured medical image transmission with CRT-based secret sharing.  
 - Experienced with Xception for medical image disease identification.  
-- [GitHub Link](https://github.com/Rajas1010/CRYPTO-DL)  
+- [Github Link | Secret Sharing Based on CRT](https://github.com/Rajas1010/CRYPTO-DL)  
 
 **RCB Lap Showroom, Java Mini Project**  
 *January 2022 – May 2022* [4th Sem Mini Project]  
 - Admin tasks: add, update, and remove laptops using SQL database.  
 - Customer features: bill generation, laptop details, image showcasing.  
-- [GitHub Link](https://github.com/Rajas1010/RCB-Lap-World)  
+- [Github Link | RCB Lap Showroom](https://github.com/Rajas1010/RCB-Lap-World)  
 
 ### CERTIFICATES
 **Introduction of Internet of Things, NPTEL**  

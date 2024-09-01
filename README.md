@@ -188,6 +188,7 @@ Institution of Engineers (IT) competition in MEPCO college, 5th semester
 Institution of Engineers (IT) competition in MEPCO college, 6th semester  
 
 </td>
+<td> <br> </td>
   </tr>
 </table>
 

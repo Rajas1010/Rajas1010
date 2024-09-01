@@ -107,7 +107,7 @@
   <tr>
     <td >
 	    
-### EDUCATION
+## EDUCATION
 **Mepco Schlenk Engineering College**  
 Bachelor's Degree in Information Technology  
 *2021 – 2024*  
@@ -126,36 +126,36 @@ Education: SSLC | HSC
 *Percentage:* 80% | 65%  
 Specialization: Mathematics, Biology in 12th
 
-### EXPERTISE
+## EXPERTISE
 Java, Python, DSA, OOPS, MySQL, Excel, Git,<br> HTML, CSS, JavaScript
 
-### LANGUAGES
+## LANGUAGES
 - English
 - Tamil
 
-### INTERESTS
+## INTERESTS
 - Problem Solving
 - Software Development
 - Front-End Design
 - Data Analysis
 
-### STRENGTHS
+## STRENGTHS
 - Punctuality
 - Patience
 
-### LINKS
+## LINKS
 - [GitHub](https://www.github.com/Rajas1010) 
 - [LinkedIn](https://www.linkedin.com/in/rajas1010/)
 </td>
 <td>
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 **Machine Operator & Assembler**  
 KJK Meister Honen Pvt Ltd | *2019 – 2021*  
 - Specialized in manufacturing honing tools  
 - Focus on accuracy and safety  
 
-### PROJECTS
+## PROJECTS
 **Deep Learning-Based Biological Signal Steganography<br> with Missing Data Recovery Approach**  
 *January 2024 – May 2024* [8th Sem Final-year Project]  
 - Implemented deep learning-based recovery for lost bio-signal data.  
@@ -174,14 +174,14 @@ KJK Meister Honen Pvt Ltd | *2019 – 2021*
 - Customer features: bill generation, laptop details, image showcasing.  
 - [Github Link | RCB Lap Showroom](https://github.com/Rajas1010/RCB-Lap-World)  
 
-### CERTIFICATES
+## CERTIFICATES
 **Introduction of Internet of Things, NPTEL**  
 January – April 2022 | **Score:** 60%  
 
 **Data Structures and Algorithms in Java, NPTEL**  
 July – October 2022 | **Score:** 75%  
 
-### AWARDS
+## AWARDS
 **Best Mini-Project Award in Cryptography Algorithms**  
 Institution of Engineers (IT) competition in MEPCO college, 5th semester  
 

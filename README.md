@@ -86,3 +86,109 @@
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajas1010&" alt="rajas1010"/>
 </p>
 <p>––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––</p>
+---
+
+
+
+<table >
+  <tr>
+    <td style="font-family: Verdana; text-align: left; vertical-align: top;">
+      <h1><strong>RAJASEKAR M</strong></h1>
+      2024 graduate in Information Technology        
+    </td>
+    <td style="text-align: right; vertical-align: top;font-style=">
+	📞 7806909073<br>
+      📧 Rajasekar.Rj100@gmail.com                 <br>
+      📍 Aruppukottai, India
+    </td>
+  </tr>
+</table>
+
+### SUMMARY
+Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL. Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.
+
+<table >
+  <tr>
+    <td style="vertical-align: top;" >
+	    
+### EDUCATION
+**Mepco Schlenk Engineering College**  
+Bachelor's Degree in Information Technology  
+*2021 – 2024*  
+**CGPA:** 7.32  
+Specialization: DSA, DBMS, SWE, Data Analytics
+
+**Government Polytechnic College**  
+Diploma in Mechatronics  
+*2016 – 2019*  
+**Percentage:** 77%  
+Specialization: Robotics, CAD/CAM, Microcontroller
+
+**Saliar Mahajana Higher Secondary School**  
+Education: SSLC | HSC  
+*2013 – 2014 | 2015 – 2016*  
+**Percentage:** 80% | 65%  
+Specialization: Mathematics, Biology in 12th
+
+### EXPERTISE
+Java, Python, DSA, OOPS, MySQL, Excel, Git, HTML, CSS, JavaScript
+
+### LANGUAGES
+English, Tamil
+
+### INTERESTS
+Problem Solving, Software Development, Front-End Design, Data Analysis
+
+### STRENGTHS
+Punctuality, Patience
+
+### LINKS
+[GitHub](https://www.github.com/Rajas1010)  
+[LinkedIn](https://www.linkedin.com/in/rajas1010/)
+
+</td>
+    <td style="vertical-align: top; width: 48%; border: none;">
+
+### WORK EXPERIENCE
+**Machine Operator & Assembler**  
+KJK Meister Honen Pvt Ltd | *2019 – 2021*  
+- Specialized in manufacturing honing tools  
+- Focus on accuracy and safety  
+
+### PROJECTS
+**Deep Learning-Based Biological Signal Steganography with Missing Data Recovery Approach**  
+*January 2024 – May 2024* [8th Sem Final-year Project]  
+- Implemented deep learning-based recovery for lost bio-signal data.  
+- Integrated arrhythmia detection for early diagnosis in healthcare.  
+- [GitHub Link](https://github.com/Rajas1010/DEEP-LEARNING-BASED-BIOLOGICAL-SIGNAL-STEGANOGRAPHY-WITH-MISSING-DATA-RECOVERY-APPROACH)  
+
+**Secret Sharing Based on CRT, Cryptography Project**  
+*January 2023 – May 2023* [6th Sem Mini Project]  
+- Secured medical image transmission with CRT-based secret sharing.  
+- Experienced with Xception for medical image disease identification.  
+- [GitHub Link](https://github.com/Rajas1010/CRYPTO-DL)  
+
+**RCB Lap Showroom, Java Mini Project**  
+*January 2022 – May 2022* [4th Sem Mini Project]  
+- Admin tasks: add, update, and remove laptops using SQL database.  
+- Customer features: bill generation, laptop details, image showcasing.  
+- [GitHub Link](https://github.com/Rajas1010/RCB-Lap-World)  
+
+### CERTIFICATES
+**Introduction of Internet of Things, NPTEL**  
+January – April 2022 | **Score:** 60%  
+
+**Data Structures and Algorithms in Java, NPTEL**  
+July – October 2022 | **Score:** 75%  
+
+### AWARDS
+**Best Mini-Project Award in Cryptography Algorithms**  
+Institution of Engineers (IT) competition in MEPCO college, 5th semester  
+
+**Best Mini-Project Award in Machine Learning**  
+Institution of Engineers (IT) competition in MEPCO college, 6th semester  
+
+</td>
+  </tr>
+</table>
+

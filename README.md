@@ -131,20 +131,24 @@ Specialization: Mathematics, Biology in 12th
 Java, Python, DSA, OOPS, MySQL, Excel, Git,<br> HTML, CSS, JavaScript
 
 ### LANGUAGES
-English, Tamil
+- English
+- Tamil
 
 ### INTERESTS
-Problem Solving, Software Development,<br> Front-End Design, Data Analysis
+- Problem Solving
+- Software Development
+- Front-End Design
+- Data Analysis
 
 ### STRENGTHS
-Punctuality, Patience
+- Punctuality
+- Patience
 
 ### LINKS
-[GitHub](https://www.github.com/Rajas1010)  
-[LinkedIn](https://www.linkedin.com/in/rajas1010/)
-
+- [GitHub](https://www.github.com/Rajas1010) 
+- [LinkedIn](https://www.linkedin.com/in/rajas1010/)
 </td>
-    <td style="vertical-align: top; width: 48%; border: none;">
+<td>
 
 ### WORK EXPERIENCE
 **Machine Operator & Assembler**  

@@ -97,9 +97,9 @@
       2024 graduate in Information Technology      
     </td>
     <td style="text-align: right; vertical-align: top;font-style=">
-	📞 7806909073<br>
-      📧 Rajasekar.Rj100@gmail.com               <br>
-      📍 Aruppukottai, India
+	- 📞 7806909073<br>
+     	- 📧 Rajasekar.Rj100@gmail.com               <br>
+	- 📍 Aruppukottai, India
     </td>
   </tr>
 </table>

@@ -112,19 +112,19 @@
 **Mepco Schlenk Engineering College**  
 Bachelor's Degree in Information Technology  
 *2021 – 2024*  
-**CGPA:** 7.32  
+*CGPA:* 7.32  
 Specialization: DSA, DBMS, SWE, Data Analytics
 
 **Government Polytechnic College**  
 Diploma in Mechatronics  
 *2016 – 2019*  
-**Percentage:** 77%  
+*Percentage:* 77%  
 Specialization: Robotics, CAD/CAM, Microcontroller
 
 **Saliar Mahajana Higher Secondary School**  
 Education: SSLC | HSC  
 *2013 – 2014 | 2015 – 2016*  
-**Percentage:** 80% | 65%  
+*Percentage:* 80% | 65%  
 Specialization: Mathematics, Biology in 12th
 
 ### EXPERTISE

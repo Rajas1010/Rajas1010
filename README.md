@@ -193,4 +193,3 @@ Institution of Engineers (IT) competition in MEPCO college, 6th semester
   </tr>
 </table>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Rajas1010?theme=unicorn&font=&extension=activity)

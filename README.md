@@ -1,7 +1,8 @@
 ![logo](https://github.com/Rajas1010/Rajas1010/blob/main/RajCoverGif.gif)
 <h1 align="center">Hi 👋, I'm Rajasekar</h1>
 <h3 align="center">Junior Programmer | Exploring Full-Time Software Development Roles</h3>
-<img align="right" alt="coding" width="400" src="https://decisioning.it/wp-content/uploads/2021/09/ai-numbers-cascading.gif">
+
+![LeetCode Stats](https://leetcode.card.workers.dev/Rajas1010?theme=unicorn&font=&extension=activity)
 
 - 📝  [My Resume](https://rajas1010.github.io/Resume/)
   
@@ -85,7 +86,9 @@
 <p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajas1010&" alt="rajas1010"/>
 </p>
-<p>════════════════════════════════════════════════════════════════════════════════════</p>
+
+---
+
 <table align="center">
   <tr>
     <td>
@@ -97,7 +100,7 @@
      	               Rajasekar.Rj100@gmail.com 📧<br><br>
 	                   Aruppukottai, India 📍<br><br>
     </td>
-  </tr>
+  </tr> 
 <tr>
 	<td colspan="2">
 		<h3 align="center">SUMMARY</h3>
@@ -191,3 +194,4 @@ Institution of Engineers (IT) competition in MEPCO college, 6th semester
   </tr>
 </table>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/Rajas1010?theme=unicorn&font=&extension=activity)

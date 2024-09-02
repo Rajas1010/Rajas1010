@@ -1,8 +1,7 @@
 ![logo](https://github.com/Rajas1010/Rajas1010/blob/main/RajCoverGif.gif)
 <h1 align="center">Hi 👋, I'm Rajasekar</h1>
 <h3 align="center">Junior Programmer | Exploring Full-Time Software Development Roles</h3>
-
-![LeetCode Stats](https://leetcode.card.workers.dev/Rajas1010?theme=unicorn&font=&extension=activity)
+<img align="right" width="410" height="410" src="https://leetcode.card.workers.dev/Rajas1010?theme=unicorn&font=&extension=activity"></img>
 
 - 📝  [My Resume](https://rajas1010.github.io/Resume/)
   
@@ -91,20 +90,20 @@
 
 <table align="center">
   <tr>
-    <td>
+    <th>
       <h1> 𝐑 𝐀 𝐉 𝐀 𝐒 𝐄 𝐊 𝐀 𝐑   𝐌 </h1>
       <p > 2024 graduate in Information Technology</p>
-    </td>
-    <td text-align="right"><br>
+    </th>
+    <th text-align="right"><br>
 	                      7806909073 📞<br><br>
      	               Rajasekar.Rj100@gmail.com 📧<br><br>
 	                   Aruppukottai, India 📍<br><br>
-    </td>
+    </th>
   </tr> 
-<tr>
+<tr rowspan="2">
 	<td colspan="2">
 		<h3 align="center">SUMMARY</h3>
-		<p align="center">Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.<br> Seeking an entry-level software developer role to contribute to innovative projects and 					grow professionally.</p>
+		<p align="center">Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.<br> Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.</p>
 	</td>
 </tr>
   <tr>

@@ -5,7 +5,7 @@
 
 - 📝  [My Resume](https://rajas1010.github.io/Resume/)
   
-- 🌱 I’m currently learning **Machine Learning Algorithms**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Rajas1010?tab=repositories)
 

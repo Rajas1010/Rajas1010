@@ -91,7 +91,7 @@
 <table align="center">
   <tr>
     <th>
-      <h1> 𝐑 𝐀 𝐉 𝐀 𝐒 𝐄 𝐊 𝐀 𝐑   𝐌 </h1>
+      <h1> ℝ𝔸𝕁𝔸𝕊𝔼𝕂𝔸ℝ 𝕄 </h1>
       <p > 2024 graduate in Information Technology</p>
     </th>
     <th text-align="right"><br>

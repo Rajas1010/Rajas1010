@@ -87,7 +87,7 @@
 </p>
 
 ---
-<h3><b>&nbsp;My Resume<b></h3>
+<h3><b>&nbsp;Resume<b></h3>
 <table align="center">
   <tr>
     <th>

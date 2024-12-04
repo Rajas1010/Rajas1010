@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Rajas1010?tab=repositories)
 
-- 💬 about me **Software Developer Intern at Aptean. Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.**
+- 💬 about me **Software Developer Trainee at Aptean. Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.**
 
 - 📫 How to reach me **Rajasekar.Rj100@gmail.com**
 
@@ -92,7 +92,7 @@
   <tr>
     <th>
       <h1> ℝ𝔸𝕁𝔸𝕊𝔼𝕂𝔸ℝ 𝕄 </h1>
-      <p > 2024 graduate in Information Technology</p>
+      <p > Software Developer</p>
     </th>
     <th text-align="right"><br>
 	                      7806909073 📞<br><br>
@@ -103,7 +103,7 @@
 <tr rowspan="2">
 	<td colspan="2">
 		<h3 align="center">SUMMARY</h3>
-		<p align="center">Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.<br> Seeking an entry-level software developer role to contribute to innovative projects and grow professionally.</p>
+		<p align="center">Software Developer at Aptean. Enthusiastic IT graduate with a strong passion for coding and problem-solving.<br> Skilled in Java, Python, and MySQL.</p>
 	</td>
 </tr>
   <tr>

@@ -91,7 +91,7 @@
 <table align="center">
   <tr>
     <th>
-      <h1> ℝ𝔸𝕁𝔸𝕊𝔼𝕂𝔸ℝ 𝕄 </h1>
+      <h1> <b>RAJASEKAR M </b></h1>
       <p > Software Developer</p>
     </th>
     <th text-align="right"><br>

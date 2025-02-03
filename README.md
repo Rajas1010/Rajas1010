@@ -103,7 +103,7 @@
 <tr rowspan="2">
 	<td colspan="2">
 		<h3 align="center">SUMMARY</h3>
-		<p align="center">Enthusiastic IT graduate and Software Developer at Aptean with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL. Eager to contribute to innovative projects, enhance software solutions, and continue growing professionally.</p>
+		<p align="center">Enthusiastic IT graduate and Software Developer at Aptean with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL. Eager to contribute to innovative projects and continue growing professionally.</p>
 	</td>
 </tr>
   <tr>

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Rajas1010?tab=repositories)
 
-- 💬 about me **Software Developer Trainee at Aptean. Enthusiastic IT graduate with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL.**
+- 💬 about me **Enthusiastic IT graduate and Software Developer at Aptean with a strong passion for coding and problem-solving. Skilled in Java, Python, and MySQL. Eager to contribute to innovative projects, enhance software solutions, and continue growing professionally.**
 
 - 📫 How to reach me **Rajasekar.Rj100@gmail.com**
 

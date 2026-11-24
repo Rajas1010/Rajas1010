@@ -3,7 +3,9 @@
   <img src="https://github.com/Rajas1010/Rajas1010/blob/main/RajCoverGif.gif" alt="Rajasekar cover" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rajasekar</h1>
+<p align="center">
+  <img src="./name.svg" width="820" alt="Hello, I'm Rajasekar M — Associate Engineer, Development at Aptean"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/Rajas1010">
@@ -67,104 +69,175 @@
 ---
 
 <!-- ===================== RESUME ===================== -->
-<h3 align="center">📄 Resume</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&section=header&text=📄%20RESUME&fontSize=28&fontColor=ffffff" width="100%" alt="Resume"/>
+</p>
 
-<table align="center">
+<!--
+  LAYOUT NOTES
+  - Both columns use width="50%" so they split the table equally.
+  - Each column starts with a 400px gradient bar. It is the top divider AND a
+    width anchor, so GitHub can't squeeze one column narrower than the other.
+  - The same gradient bar is repeated between every section as a divider.
+-->
+
+<table>
+  <!-- ===== Name banner ===== -->
   <tr>
-    <th>
-      <h1><b>RAJASEKAR M</b></h1>
-      <p>Associate Engineer, Development @ Aptean</p>
-    </th>
-    <th align="right"><br>
-      7806909073 📞<br><br>
-      Rajasekar.Rj100@gmail.com 📧<br><br>
-      Aruppukottai, India 📍<br><br>
-    </th>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">SUMMARY</h3>
-      <p align="center">IT graduate and Associate Engineer at Aptean with a strong passion for coding and problem-solving. Skilled in Java, Python and MySQL, with hands-on ERP development experience and practical use of AI tools like Claude AI and Grok to automate work. Eager to contribute to innovative projects and keep growing professionally.</p>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="./name.svg" width="560" alt="Rajasekar M — Associate Engineer, Development at Aptean"/><br/>
+      <sub>🎓 2024 Graduate in Information Technology</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/📞%20Phone-7806909073-6D28D9?style=flat-square" alt="Phone"/>
+      <a href="mailto:Rajasekar.Rj100@gmail.com"><img src="https://img.shields.io/badge/Email-Rajasekar.Rj100%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+      <img src="https://img.shields.io/badge/Location-Aruppukottai%2C%20India-0F766E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+      <br/>
+      <a href="https://www.github.com/Rajas1010"><img src="https://img.shields.io/badge/GitHub-Rajas1010-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+      <a href="https://www.linkedin.com/in/rajas1010/"><img src="https://img.shields.io/badge/LinkedIn-rajas1010-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+      <a href="https://rajas1010.github.io/Resume/"><img src="https://img.shields.io/badge/Online%20Resume-Open-A855F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Online Resume"/></a>
+      <br/><br/>
     </td>
   </tr>
-  <tr>
-    <td valign="top">
 
-## EDUCATION
+  <!-- ===== Summary ===== -->
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🎯 SUMMARY</h3>
+      <p>
+        IT graduate and <b>Associate Engineer at Aptean</b> with a strong passion for coding and problem-solving.
+        Skilled in <b>Java, Python and MySQL</b>, with hands-on <b>ERP development</b> experience and practical use of
+        AI tools like <b>Claude AI</b> and <b>Grok</b> to automate work. Eager to contribute to innovative projects and keep growing professionally.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- ================= LEFT COLUMN (50%) ================= -->
+    <td width="50%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
+
+### 🎓 EDUCATION
+
 **Mepco Schlenk Engineering College**  
-Bachelor's Degree in Information Technology  
-*2021 – 2024*  
-*CGPA:* 7.32  
-Specialization: DSA, DBMS, SWE, Data Analytics
+B.Tech – Information Technology  
+<sub>📅 2021 – 2024 &nbsp;•&nbsp; ⭐ CGPA 7.32</sub>  
+<sub>DSA · DBMS · SWE · Data Analytics</sub>
 
 **Government Polytechnic College**  
-Diploma in Mechatronics  
-*2016 – 2019*  
-*Percentage:* 77%  
-Specialization: Robotics, CAD/CAM, Microcontroller
+Diploma – Mechatronics  
+<sub>📅 2016 – 2019 &nbsp;•&nbsp; ⭐ 77%</sub>  
+<sub>Robotics · CAD/CAM · Microcontroller</sub>
 
-**Saliar Mahajana Higher Secondary School**  
-Education: SSLC | HSC  
-*2013 – 2014 | 2015 – 2016*  
-*Percentage:* 80% | 65%  
-Specialization: Mathematics, Biology in 12th
+**Saliar Mahajana Hr. Sec. School**  
+SSLC | HSC  
+<sub>📅 2013–14 | 2015–16 &nbsp;•&nbsp; ⭐ 80% | 65%</sub>  
+<sub>Mathematics · Biology</sub>
 
-## EXPERTISE
-Java, Python, DSA, OOPS, MySQL, Excel, Git,<br> HTML, CSS, JavaScript, DBC,<br> Claude AI, Grok
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
 
-## LANGUAGES
-- English
-- Tamil
+### 🛠️ EXPERTISE
 
-## INTERESTS
-- Problem Solving
-- Software Development
-- Front-End Design
-- Data Analysis
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBC-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOPS-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white"/>
 
-## STRENGTHS
-- Punctuality
-- Patience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
 
-## LINKS
-- [GitHub](https://www.github.com/Rajas1010) &nbsp; [LinkedIn](https://www.linkedin.com/in/rajas1010/)
+### 📜 CERTIFICATES
+
+**🌐 Introduction to IoT – NPTEL**  
+<sub>📅 Jan – Apr 2022 &nbsp;•&nbsp; ⭐ Score 60%</sub>
+
+**☕ DSA in Java – NPTEL**  
+<sub>📅 Jul – Oct 2022 &nbsp;•&nbsp; ⭐ Score 75%</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
+
+### 🗣️ LANGUAGES
+
+<img src="https://img.shields.io/badge/English-Professional-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tamil-Native-334155?style=flat-square"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
+
+### 💡 INTERESTS
+
+<img src="https://img.shields.io/badge/Problem%20Solving-475569?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software%20Development-475569?style=flat-square"/>
+<img src="https://img.shields.io/badge/Front--End%20Design-475569?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-475569?style=flat-square"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
+
+### 💪 STRENGTHS
+
+⏰ Punctuality &nbsp;&nbsp; 🧘 Patience
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
+
+### 🔗 LINKS
+
+<a href="https://www.github.com/Rajas1010"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rajas1010/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.leetcode.com/rajas1010"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/rajas1010"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white"/></a>
 
 </td>
-<td valign="top">
+    <!-- ================= RIGHT COLUMN (50%) ================= -->
+    <td width="50%" valign="top">
 
-## WORK EXPERIENCE
-**Associate Engineer, Development**  
-Aptean, Madurai | *Nov 2024 – Present* &nbsp;[Intern: Nov 2024 – May 2025]  
-- Customized, developed and debugged the Produce Pro ERP for Purchasing, Inventory Management, Sales, WMS and EDI using DBC.  
-- Built skills for AI agents using Claude AI, and used Grok alongside it, to automate internal processes and streamline PR completion.  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
+
+### 💼 WORK EXPERIENCE
+
+**Associate Engineer, Development** &nbsp;<img src="https://img.shields.io/badge/Current-22C55E?style=flat-square"/>  
+🏢 **Aptean**, Madurai  
+<sub>📅 Nov 2024 – Present &nbsp;•&nbsp; Intern: Nov 2024 – May 2025</sub>
+- Customized, developed and debugged the **Produce Pro ERP** for Purchasing, Inventory Management, Sales, WMS and EDI using **DBC**.
+- Built skills for AI agents using **Claude AI**, and used **Grok** alongside it, to automate internal processes and streamline PR completion.
 
 **Machine Operator & Assembler**  
-KJK Meister Honen Pvt Ltd | *2019 – 2021*  
-- Manufactured honing tools with a focus on accuracy and safety.  
+🏭 **KJK Meister Honen Pvt Ltd**  
+<sub>📅 2019 – 2021</sub>
+- Manufactured honing tools with a focus on accuracy and safety.
 
-## PROJECTS
-**Deep Learning-Based Biological Signal Steganography<br> with Missing Data Recovery Approach**  
-*January 2024 – May 2024* [8th Sem Final-year Project]  
-- Recovered lost bio-signal data and detected arrhythmia using deep learning.  
-- [GitHub Link](https://github.com/Rajas1010/DEEP-LEARNING-BASED-BIOLOGICAL-SIGNAL-STEGANOGRAPHY-WITH-MISSING-DATA-RECOVERY-APPROACH)  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
 
-**Secret Sharing Based on CRT, Cryptography Project**  
-*January 2023 – May 2023* [6th Sem Mini Project]  
-- Secured medical image transmission using CRT-based secret sharing.  
-- [GitHub Link](https://github.com/Rajas1010/CRYPTO-DL)  
+### 🚀 PROJECTS
 
-**RCB Lap Showroom, Java Mini Project**  
-*January 2022 – May 2022* [4th Sem Mini Project]  
-- Built SQL-based laptop management with billing and product details.  
-- [GitHub Link](https://github.com/Rajas1010/RCB-Lap-World)  
+**Deep Learning-Based Biological Signal Steganography with Missing Data Recovery** &nbsp;<a href="https://github.com/Rajas1010/DEEP-LEARNING-BASED-BIOLOGICAL-SIGNAL-STEGANOGRAPHY-WITH-MISSING-DATA-RECOVERY-APPROACH"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>  
+<sub>📅 Jan – May 2024 &nbsp;•&nbsp; 8th Sem Final-year Project</sub>
+- Recovered lost bio-signal data and detected arrhythmia using deep learning.
 
-## CERTIFICATES
-**IoT, NPTEL** — Jan–Apr 2022 · 60%  
-**DSA in Java, NPTEL** — Jul–Oct 2022 · 75%  
+**Secret Sharing Based on CRT – Cryptography** &nbsp;<a href="https://github.com/Rajas1010/CRYPTO-DL"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>  
+<sub>📅 Jan – May 2023 &nbsp;•&nbsp; 6th Sem Mini Project</sub>
+- Secured medical image transmission using CRT-based secret sharing.
 
-## AWARDS
-**Best Mini-Project Award in Cryptography & ML**  
-Institution of Engineers (IT) competition, MEPCO college, 5th & 6th sem.
+**RCB Lap Showroom – Java** &nbsp;<a href="https://github.com/Rajas1010/RCB-Lap-World"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>  
+<sub>📅 Jan – May 2022 &nbsp;•&nbsp; 4th Sem Mini Project</sub>
+- Built SQL-based laptop management with billing and product details.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=4" width="400" height="4" alt=""/>
+
+### 🏆 AWARDS
+
+🥇 **Best Mini-Project Award – Cryptography**  
+<sub>Institution of Engineers (IT) competition, MEPCO college · 5th sem</sub>
+
+🥇 **Best Mini-Project Award – Machine Learning**  
+<sub>Institution of Engineers (IT) competition, MEPCO college · 6th sem</sub>
 
 </td>
   </tr>

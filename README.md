@@ -3,9 +3,7 @@
   <img src="https://github.com/Rajas1010/Rajas1010/blob/main/RajCoverGif.gif" alt="Rajasekar cover" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="./name.svg" width="820" alt="Hello, I'm Rajasekar M — Associate Engineer, Development at Aptean"/>
-</p>
+<h1 align="center">Hi 👋, I'm Rajasekar</h1>
 
 <p align="center">
   <a href="https://github.com/Rajas1010">
@@ -86,7 +84,8 @@
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <img src="./name.svg" width="560" alt="Rajasekar M — Associate Engineer, Development at Aptean"/><br/>
+      <h1>RAJASEKAR M</h1>
+      <b>Associate Engineer, Development @ Aptean</b><br/>
       <sub>🎓 2024 Graduate in Information Technology</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/📞%20Phone-7806909073-6D28D9?style=flat-square" alt="Phone"/>

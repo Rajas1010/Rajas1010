@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rajas1010/Rajas1010/blob/main/RajCoverGif.gif)
 <h1 align="center">Hi 👋, I'm Rajasekar</h1>
 <h3 align="center">Junior Programmer | Exploring Full-Time Software Development Roles</h3>
-<img align="right" width="410" height="410" src="https://leetcode.card.workers.dev/Rajas1010?theme=unicorn&font=&extension=activity"></img>
+<img align="right" width="500" height="400" src="https://leetcode.card.workers.dev/Rajas1010?theme=unicorn&font=&extension=activity"></img>
 
 - 📝  [My Resume](https://rajas1010.github.io/Resume/)
   
